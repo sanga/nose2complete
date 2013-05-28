@@ -8,5 +8,4 @@ setup(name='nose2complete',
       url='https://github.com/sanga/nose2complete',
       license='MIT',
       py_modules=['nose2complete'],
-      install_requires=['python-nose2'],
       entry_points={'console_scripts': ['nose2complete=nose2complete:main']})
